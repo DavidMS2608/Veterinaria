@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wUUHJQWt61k=",
+  "dgSpecHash": "A0IyPz3ktWw=",
   "success": true,
-  "projectFilePath": "D:\\Programación De Software\\MVC\\AppVeterinaria\\VeterinariaBack\\VeterinariaBack.csproj",
+  "projectFilePath": "C:\\Users\\salak401\\Source\\Repos\\Veterinaria\\AppVeterinaria\\VeterinariaBack\\VeterinariaBack.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\salak401\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\salak401\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

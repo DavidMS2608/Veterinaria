@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programación De Software\\MVC\\AppVeterinaria\\VeterinariaFront\\VeterinariaFront.csproj": {}
+    "C:\\Users\\salak401\\Source\\Repos\\Veterinaria\\AppVeterinaria\\VeterinariaFront\\VeterinariaFront.csproj": {}
   },
   "projects": {
-    "D:\\Programación De Software\\MVC\\AppVeterinaria\\VeterinariaFront\\VeterinariaFront.csproj": {
+    "C:\\Users\\salak401\\Source\\Repos\\Veterinaria\\AppVeterinaria\\VeterinariaFront\\VeterinariaFront.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programación De Software\\MVC\\AppVeterinaria\\VeterinariaFront\\VeterinariaFront.csproj",
+        "projectUniqueName": "C:\\Users\\salak401\\Source\\Repos\\Veterinaria\\AppVeterinaria\\VeterinariaFront\\VeterinariaFront.csproj",
         "projectName": "VeterinariaFront",
-        "projectPath": "D:\\Programación De Software\\MVC\\AppVeterinaria\\VeterinariaFront\\VeterinariaFront.csproj",
+        "projectPath": "C:\\Users\\salak401\\Source\\Repos\\Veterinaria\\AppVeterinaria\\VeterinariaFront\\VeterinariaFront.csproj",
         "packagesPath": "C:\\Users\\salak401\\.nuget\\packages\\",
-        "outputPath": "D:\\Programación De Software\\MVC\\AppVeterinaria\\VeterinariaFront\\obj\\",
+        "outputPath": "C:\\Users\\salak401\\Source\\Repos\\Veterinaria\\AppVeterinaria\\VeterinariaFront\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

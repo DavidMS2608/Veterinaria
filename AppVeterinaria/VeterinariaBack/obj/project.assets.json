@@ -8208,11 +8208,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programación De Software\\MVC\\AppVeterinaria\\VeterinariaBack\\VeterinariaBack.csproj",
+      "projectUniqueName": "C:\\Users\\salak401\\Source\\Repos\\Veterinaria\\AppVeterinaria\\VeterinariaBack\\VeterinariaBack.csproj",
       "projectName": "VeterinariaBack",
-      "projectPath": "D:\\Programación De Software\\MVC\\AppVeterinaria\\VeterinariaBack\\VeterinariaBack.csproj",
+      "projectPath": "C:\\Users\\salak401\\Source\\Repos\\Veterinaria\\AppVeterinaria\\VeterinariaBack\\VeterinariaBack.csproj",
       "packagesPath": "C:\\Users\\salak401\\.nuget\\packages\\",
-      "outputPath": "D:\\Programación De Software\\MVC\\AppVeterinaria\\VeterinariaBack\\obj\\",
+      "outputPath": "C:\\Users\\salak401\\Source\\Repos\\Veterinaria\\AppVeterinaria\\VeterinariaBack\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -8234,8 +8234,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Programación De Software\\MVC\\AppVeterinaria\\VeterinariaModel\\VeterinariaModel.csproj": {
-              "projectPath": "D:\\Programación De Software\\MVC\\AppVeterinaria\\VeterinariaModel\\VeterinariaModel.csproj"
+            "C:\\Users\\salak401\\Source\\Repos\\Veterinaria\\AppVeterinaria\\VeterinariaModel\\VeterinariaModel.csproj": {
+              "projectPath": "C:\\Users\\salak401\\Source\\Repos\\Veterinaria\\AppVeterinaria\\VeterinariaModel\\VeterinariaModel.csproj"
             }
           }
         }

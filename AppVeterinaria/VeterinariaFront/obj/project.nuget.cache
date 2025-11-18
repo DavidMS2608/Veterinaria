@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TvFXtOIZsOc=",
+  "dgSpecHash": "efFj/4JCMC0=",
   "success": true,
-  "projectFilePath": "D:\\Programación De Software\\MVC\\AppVeterinaria\\VeterinariaFront\\VeterinariaFront.csproj",
+  "projectFilePath": "C:\\Users\\salak401\\Source\\Repos\\Veterinaria\\AppVeterinaria\\VeterinariaFront\\VeterinariaFront.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\salak401\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.14\\microsoft.aspnetcore.authorization.8.0.14.nupkg.sha512",
     "C:\\Users\\salak401\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.14\\microsoft.aspnetcore.components.8.0.14.nupkg.sha512",
