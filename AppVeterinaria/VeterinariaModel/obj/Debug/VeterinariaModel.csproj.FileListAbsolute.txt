@@ -1,0 +1,6 @@
+D:\Programación De Software\MVC\AppVeterinaria\VeterinariaModel\bin\Debug\VeterinariaModel.dll
+D:\Programación De Software\MVC\AppVeterinaria\VeterinariaModel\bin\Debug\VeterinariaModel.pdb
+D:\Programación De Software\MVC\AppVeterinaria\VeterinariaModel\obj\Debug\VeterinariaModel.csproj.AssemblyReference.cache
+D:\Programación De Software\MVC\AppVeterinaria\VeterinariaModel\obj\Debug\VeterinariaModel.csproj.CoreCompileInputs.cache
+D:\Programación De Software\MVC\AppVeterinaria\VeterinariaModel\obj\Debug\VeterinariaModel.dll
+D:\Programación De Software\MVC\AppVeterinaria\VeterinariaModel\obj\Debug\VeterinariaModel.pdb
